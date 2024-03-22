@@ -163,3 +163,4 @@ check scrap/ssc.ipynb
 check scrap/test.ipynb
 check scrap/tt.ipynb
 check scrap/skyscanner.ipynb
+check scrap/test.csv
